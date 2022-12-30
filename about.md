@@ -10,7 +10,7 @@ order: 1
 ## Hello, World!
 
 Hola soy **Ricardo**.<br>
-Actualmente estudio **Ing. informatica**, en la **Universidad de Buenos Aires**.<br>
+Actualmente estudio **Ing. informatica**, en la **[FIUBA - Universidad de Buenos Aires]**.<br>
 Programar es como tener superpoderes porque te entrega esa posibilidad de crear tus propios proyectos, esa libertad de poder crear cosas nuevas, expandir todos tus horizontes y por sobre todo te ayuda a cambiar tu forma de pensar.<br>
 Para saber mas sobre mi podes ver mi [resume].
 
@@ -47,9 +47,7 @@ based on the jekyll theme [Hydejack].
 <!--author-->
 
 <!-- Links -->
-[SAP Labs Korea]: https://www.sap.com/korea/about/labs-korea.html
-[Hanyang University]: https://www.hanyang.ac.kr/
-[heavy gamer]: https://steamcommunity.com/id/lazyren
+[FIUBA - Universidad de Buenos Aires]: https://www.fi.uba.ar
 [resume]: /resume/
-[original post]: http://blog.vivekmahbubani.com/2007/03/work-hard-to-be-lazy.html
+[original post]: https://ateneapsicologia.com/2012/09/27/si-buscas-resultados-distintos-no-hagas-siempre-lo-mismo-albert-einstein
 [Hydejack]: https://hydejack.com
