@@ -3,7 +3,7 @@ layout: post
 title: "Algo Thief Game"
 subtitle: "Juego"
 category: proyectos
-tags: development java
+tags: desarrollo java
 image:
   path: /assets/img/2022-12-30/carmen-sandiego.jpg
 ---

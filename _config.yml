@@ -35,19 +35,19 @@ tagline:               >
   Si buscas resultados distintos no hagas siempre lo mismo.
 
 # A list of keywords for your blog
-keywords:              ["Development", "C++", "Rust", "Jekyll"]
+keywords:              ["Desarrollo", "C++", "Rust", "Jekyll"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/seattle.png
+logo:                  /assets/img/perfil.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Luizaga Ricardo
   email:               riluizaga@gmail.com
-  picture:             /assets/img/seattle.png
+  picture:             /assets/img/perfil.png
   social:
     linkedin:          riluizaga
     github:            riluizaga
