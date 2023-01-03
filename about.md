@@ -12,7 +12,7 @@ order: 1
 Hola soy **Ricardo**.<br>
 Actualmente estudio **Ing. informatica**, en la **[FIUBA - Universidad de Buenos Aires]**.<br>
 Programar es como tener superpoderes porque te entrega esa posibilidad de crear tus propios proyectos, esa libertad de poder crear cosas nuevas, expandir todos tus horizontes y por sobre todo te ayuda a cambiar tu forma de pensar.<br>
-Para saber mas sobre mi podes ver mi [resume].
+Para saber mas sobre mi podes ver mi [cv].
 
 ## Mi frase favorita
 
@@ -29,7 +29,7 @@ Aquí les dejo los pasos a grandes rasgos de la solución de problemas:
 - Puesta en práctica
 - Evaluación del resultado
 
-[original post]
+[post original]
 
 ***
 
@@ -39,8 +39,8 @@ Aquí les dejo los pasos a grandes rasgos de la solución de problemas:
 
 ***
 
-Blog created by Ricardo Luizaga on December 1. 2022 in Buenos Aires,<br>
-based on the jekyll theme [Hydejack].
+Blog creado por Luizaga Ricardo el 1 de Diciembre del 2022 en Buenos Aires,<br>
+basado en el tema de jekyll [Hydejack].
 
 ***
 
@@ -48,6 +48,6 @@ based on the jekyll theme [Hydejack].
 
 <!-- Links -->
 [FIUBA - Universidad de Buenos Aires]: https://www.fi.uba.ar
-[resume]: /resume/
-[original post]: https://ateneapsicologia.com/2012/09/27/si-buscas-resultados-distintos-no-hagas-siempre-lo-mismo-albert-einstein
+[cv]: /resume/
+[post original]: https://ateneapsicologia.com/2012/09/27/si-buscas-resultados-distintos-no-hagas-siempre-lo-mismo-albert-einstein
 [Hydejack]: https://hydejack.com
