@@ -3,7 +3,7 @@ layout: post
 title: "Hydejack Post Writing Tips & Tricks"
 subtitle: "Hydejack Post Writing Tips & Tricks"
 category: blog
-tags: blog
+tags: github-pages jekyll
 ---
 
 List of useful syntaxes you may find interesting when you write your own Jekyll posts.

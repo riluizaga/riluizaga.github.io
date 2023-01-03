@@ -3,7 +3,7 @@ layout: post
 title: "Adding Foldable Submenu to the Sidebar"
 subtitle: "Adding Foldable Submenu to the Sidebar"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2020-08-02/sidebar.png
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Add Image Gallery for the All Images in Markdown Post"
 subtitle: "Add Image Gallery for the All Images in Markdown Post"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2022-08-28/gify_neo.gif
 ---

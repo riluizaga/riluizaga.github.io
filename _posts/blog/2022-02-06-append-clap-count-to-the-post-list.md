@@ -3,7 +3,7 @@ layout: post
 title: "Append Clap Count to the Post List"
 subtitle: "Append Clap Count to the Post List"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2022-02-06/list.png
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Decorate Codeblock Scrollbar"
 subtitle: "Decorate Codeblock Scrollbar"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2022-01-09/scrollbar.gif
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How I customized Hydejack Theme"
 subtitle: "How I customized Hydejack Theme"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2020-08-02/showcase.png
 ---

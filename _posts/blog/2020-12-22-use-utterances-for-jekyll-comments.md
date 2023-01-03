@@ -3,7 +3,7 @@ layout: post
 title: "Use Utterances/Giscus for Jekyll Comments System"
 subtitle: "Use Utterances/Giscus for Jekyll Comments System"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2020-12-21/utterances.png
 ---

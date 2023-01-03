@@ -3,7 +3,7 @@ layout: post
 title: "WSL2 - Avoid using Jekyll on Windows Filesystem"
 subtitle: "Bundle Jekyll is too slow on Windows"
 category: blog
-tags: blog jekyll
+tags: blog github-pages jekyll
 image:
   path: /assets/img/2021-01-06/bundler.png
 ---

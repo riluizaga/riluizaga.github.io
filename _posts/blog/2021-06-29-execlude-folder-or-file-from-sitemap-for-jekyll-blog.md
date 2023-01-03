@@ -3,7 +3,7 @@ layout: post
 title: "Exclude Folder or File from the Sitemap for Jekyll(Hydejack) Blog"
 subtitle: "Controlling jekyll-sitemap Plugin to Exclude Page"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 ---
 
 Webmaster tools (such as [Google Search Console]) use `sitemap.xml` file to get help crawling. The file work as content

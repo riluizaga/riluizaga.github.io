@@ -3,7 +3,7 @@ layout: post
 title: "How to Center an Image in Markdown"
 subtitle: "Centering Image in Jekyll Blog with CSS"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2022-01-07/centered-image.png
 ---

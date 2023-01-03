@@ -3,7 +3,7 @@ layout: post
 title: "Add Applause Button for Jekyll Post"
 subtitle: "Add Applause Button for Jekyll Post"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2020-12-21/post_end.png
 ---

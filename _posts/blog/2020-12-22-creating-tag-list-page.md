@@ -3,7 +3,7 @@ layout: post
 title: "Creating Tag List Page"
 subtitle: "Creating Tag List Page"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2020-12-21/tag_list.png
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Preventing FOUC of the Sidebar"
 subtitle: "Preventing FOUC of the Sidebar"
 category: blog
-tags: blog github-pages jekyll
+tags: github-pages jekyll
 image:
   path: /assets/img/2022-01-07/comparison.gif
 ---
