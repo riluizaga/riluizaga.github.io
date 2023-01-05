@@ -130,7 +130,7 @@ resume:
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:     <!--study_type--> in <!--area--><br>&emsp;&emsp;from <!--institution--> with GPA of <!--gpa-->
+  education_title:     <!--study_type--> in <!--area--> from <!--institution-->
   certificate_title:   <!--certificate-->
   projects:            Projects
   projects_title:      "<!--title-->: <!--date-->"
