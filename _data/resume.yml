@@ -28,8 +28,8 @@ work:
   - company: "Trimaker"
     position: "Software developer"
     website: "https://trimaker.com/"
-    startDate: "2020-02-03"
-    endDate: "2020-12-31"
+    startDate: "2017-12-01"
+    endDate: "2018-09-01"
     summary: >
       Development of Readers for the virtual storage system of returnable containers for the company Quilmes
     highlights:
@@ -38,8 +38,8 @@ work:
   - company: "Trimaker"
     position: "Research"
     website: "https://trimaker.com/"
-    startDate: "2021-01-11"
-    endDate: ""
+    startDate: "2017-12-01"
+    endDate: "2018-09-01"
     summary: >
       Investigation of electromagnetic phenomena
     highlights:
@@ -52,19 +52,15 @@ volunteer:
   - organization: "ODSL"
     position: "Data and Education Squad"
     website: ""
-    startDate: "2018-03-02"
+    startDate: "2019-03-02"
     endDate: "2018-12-21"
-    summary: "Mentoring for the data science courses"
-    highlights:
-      - "Data Structure; Teaching & helping sophomores on the data structure course."
-      - "Database Systems; Teaching & helping sophomores on the database system course."
-      - "Awarded 'Hanyang Best Mentor' for mentoring Database Systems course."
+    summary: "Challenge organization"
 education:
   - institution: "FIUBA - University of Buenos Aires"
     area: "Software Engineering"
     studyType: "Bachelor"
-    startDate: "2014-03-02"
-    endDate: "2020-02-21"
+    startDate: "2016-03-01"
+    endDate: ""
     courses:
       - "Concurrent Programming"
       - "Data Science"
@@ -73,29 +69,29 @@ education:
       - "Database Systems"
       - "System Programming"
   - certificate: "Data mining and Big Data | Fiuba (Escuela de Graduados en Dirección Empresaria)"
-    date: "2019-11-22"
+    date: "2018-12-10"
 projects:
-  - title: "Natural Language Processing with Disaster Tweets"
-    startDate: "2018-08-01"
-    endDate: "2019-10-31"
-    summary: "Curso Organizacion De Datos"
-    url: "https://riluizaga.github.io/proyectos/nlp-disaster-tweets.html"
-    highlights:
-      - "Python"
-      - "Text Classification"
-      - "Data Visualization"
   - title: "Bank Marketing"
-    startDate: "2019-10-01"
-    endDate: "2019-10-31"
+    startDate: "2018-08-01"
+    endDate: "2018-12-10"
     summary: "Data mining and Big Data Course"
     url: "https://riluizaga.github.io/proyectos/bank-marketing.html"
     highlights:
       - "R"
       - "Binary Classification"
       - "Data Visualization"
+  - title: "Natural Language Processing with Disaster Tweets"
+    startDate: "2021-04-12"
+    endDate: "2021-07-26"
+    summary: "Curso Organizacion De Datos"
+    url: "https://riluizaga.github.io/proyectos/nlp-disaster-tweets.html"
+    highlights:
+      - "Python"
+      - "Text Classification"
+      - "Data Visualization"
   - title: "Algo Thief Game"
-    startDate: "2018-03-02"
-    endDate: "2018-06-22"
+    startDate: "2021-09-06"
+    endDate: "2021-12-20"
     summary: "Curso Algoritmos y Programacion III"
     url: "https://github.com/martinanus/algo3_tp2"
     highlights:
@@ -104,15 +100,15 @@ projects:
       - "Desing Patterns"
       - "Test Driven Development"
   - title: "Dune Game"
-    startDate: "2018-03-02"
-    endDate: "2018-06-22"
+    startDate: "2022-03-21"
+    endDate: "2022-07-04"
     summary: "Curso Taller de Programacion I"
     url: "https://github.com/dyylanl/Dune"
     highlights:
       - "C/C++"
       - "Game Programming Patterns"
       - "Concurrent Programming"
-      - "Handling multiple clients on server with multithreading using Socket Programming in C/C++"
+      - "Handling multiple clients on server with multithreading using Socket"
 # publications:
 #   - name: "Video compression for 3d media"
 #     publisher: "Hooli"
