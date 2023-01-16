@@ -116,44 +116,47 @@ projects:
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Kernel Development"
+  - name: "Data Scientists"
+    level: "Master"
+    keywords:
+      - "Machine Learning"
+      - "Data Visualization"
+      - "Communication"
+  - name: "Data Engineer"
     level: "Intermediate"
     keywords:
-      - "Concurrent Programming"
-      - "C/C++"
-      - "Rust"
-  - name: "Algorithm"
-    level: "Intermediate"
+      - "ETL"
+      - "Data pipelines"
+      - "Data warehouse"
+      - "Big Data Analytics"
   - name: "Web Development"
-    level: "Junior"
+    level: "Intermediate"
     keywords:
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name: "Sociability"
+  - name: "Tool and Software"
     level: "Master"
     keywords:
-      - "Leadership"
-      - "Affable"
+      - "Python"
+      - "PostgreSQL"
+      - "MongoDB"
+      - "Spark"
+      - "Java"
 languages:
   - language: "English"
     fluency: "Fluent"
 interests:
   - name: "Activity"
     keywords:
-      - "Tennis"
-      - "Snowboarding"
-      - "Cycling"
+      - "Blogging"
+      - "Music"
+      - "Sports"
   - name: "Reading"
     keywords:
-      - "J. R. R. Tolkien"
-      - "이영도"
-      - "전민희"
-  - name: "Gaming"
-    keywords:
-      - "Board Games"
-      - "<a href='https://steamcommunity.com/id/lazyren'>Steam</a>"
-      - "<a href='http://www.companyofheroes.com/leaderboards#profile/steam/76561198031392006/standings'>Company of Heroes 2</a>"
+      - "The Seven Habits of Highly Effective People by Stephen R. Covey"
+      - "Clean Code by Robert C. Martin"
+      - "The Name of the Wind by Patrick Rothfuss"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
