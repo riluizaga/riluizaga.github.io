@@ -1,10 +1,10 @@
 basics:
-  name: "Luizaga Ricardo"
+  name: "Ricardo Luizaga"
   label: "Software Engineer"
   picture: /assets/img/perfil.png
   email: "riluizaga@gmail.com"
   phone: "(+549) 2224-461830"
-  website: "https://riluizaga.github.io/"
+  website: "https://riluizaga.github.io"
   summary: >
     Hello, I’m Ricardo.<br>
     I am an enthusiastic, self-motivated, reliable, responsible and hard working person. <br>
@@ -33,20 +33,16 @@ work:
     summary: >
       Development of Readers for the virtual storage system of returnable containers for the company Quilmes
     highlights:
-      - "Interface development in Rasberry Pi"
-      - "Development of NFC reader in arduino"
+      - "Operational management of pilot test in Mar del Plata"
   - company: "Trimaker"
     position: "Research"
     website: "https://trimaker.com/"
     startDate: "2017-12-01"
     endDate: "2018-09-01"
     summary: >
-      Investigation of electromagnetic phenomena
+      Research and laboratory tests of electromagnetic phenomena
     highlights:
-      - "Parameter modeling"
-      - "Simulation in Python"
-      - Laboratory test
-      - "Analysis of data"
+      - "Modeling and Simulation in Python"
       - "Informs presentation"
 volunteer:
   - organization: "ODSL"
@@ -61,13 +57,13 @@ education:
     studyType: "Bachelor"
     startDate: "2016-03-01"
     endDate: ""
-    courses:
-      - "Concurrent Programming"
-      - "Data Science"
-      - "Operating Systems"
-      - "Computer Architecture"
-      - "Database Systems"
-      - "System Programming"
+#    courses:
+#      - "Concurrent Programming"
+#      - "Data Science"
+#      - "Operating Systems"
+#      - "Computer Architecture"
+#      - "Database Systems"
+#      - "System Programming"
   - certificate: "Data mining and Big Data | Fiuba (Escuela de Graduados en Dirección Empresaria)"
     date: "2018-12-10"
 projects:
@@ -77,36 +73,35 @@ projects:
     summary: "Data mining and Big Data Course"
     url: "https://riluizaga.github.io/proyectos/bank-marketing.html"
     highlights:
-      - "R"
-      - "Binary Classification"
+      - "Predicting customer conversions"
       - "Data Visualization"
-  - title: "Natural Language Processing with Disaster Tweets"
+  - title: "NLP with Disaster Tweets"
     startDate: "2021-04-12"
     endDate: "2021-07-26"
     summary: "Curso Organizacion De Datos"
     url: "https://riluizaga.github.io/proyectos/nlp-disaster-tweets.html"
     highlights:
-      - "Python"
-      - "Text Classification"
+      - "Predict which Tweets are about real disasters and which ones are not"
       - "Data Visualization"
-  - title: "Algo Thief Game"
-    startDate: "2021-09-06"
-    endDate: "2021-12-20"
-    summary: "Curso Algoritmos y Programacion III"
-    url: "https://github.com/martinanus/algo3_tp2"
-    highlights:
-      - "Java"
-      - "Object-oriented programming"
-      - "Desing Patterns"
-      - "Test Driven Development"
+#  - title: "Algo Thief Game"
+#    startDate: "2021-09-06"
+#    endDate: "2021-12-20"
+#    summary: "Curso Algoritmos y Programacion III"
+#    url: "https://github.com/martinanus/algo3_tp2"
+#    highlights:
+#      - "Java"
+#      - "Object-oriented programming"
+#      - "Desing Patterns"
+#      - "Test Driven Development"
   - title: "Dune Game"
     startDate: "2022-03-21"
     endDate: "2022-07-04"
     summary: "Curso Taller de Programacion I"
     url: "https://github.com/dyylanl/Dune"
     highlights:
-      - "C/C++"
-      - "Game Programming Patterns"
+      - "Object-Oriented Programming"
+      - "Desing Patterns"
+      - "Test Driven Development"
       - "Concurrent Programming"
       - "Handling multiple clients on server with multithreading using Socket"
 # publications:
@@ -122,13 +117,13 @@ skills:
       - "Machine Learning"
       - "Data Visualization"
       - "Communication"
-  - name: "Data Engineer"
-    level: "Intermediate"
-    keywords:
-      - "ETL"
-      - "Data pipelines"
-      - "Data warehouse"
-      - "Big Data Analytics"
+#  - name: "Data Engineer"
+#    level: "Intermediate"
+#    keywords:
+#      - "ETL"
+#      - "Data pipelines"
+#      - "Data warehouse"
+#      - "Big Data Analytics"
   - name: "Web Development"
     level: "Intermediate"
     keywords:
@@ -143,15 +138,17 @@ skills:
       - "MongoDB"
       - "Spark"
       - "Java"
+      - "C/C++"
 languages:
   - language: "English"
     fluency: "Fluent"
 interests:
-  - name: "Activity"
+  - name: "Blogging"
     keywords:
-      - "Blogging"
-      - "Music"
-      - "Sports"
+      - "I like writing and organizing stuﬀs as much as reading, so I’ve decided to dedicate my times to make a blog"
+  - name: "Hobbies"
+    keywords:
+      - "In my free time I enjoy meeting with my friends and family, I also enjoy listening to music and working out in the gym."
   - name: "Reading"
     keywords:
       - "The Seven Habits of Highly Effective People by Stephen R. Covey"

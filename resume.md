@@ -9,8 +9,8 @@ sidebar: true
 order: 5
 left_column:
  - work
- - education
  - projects
+ - education
  - publications
  - references
 right_column:
